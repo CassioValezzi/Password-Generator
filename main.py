@@ -8,7 +8,6 @@ def numberConverter(frase):
         print("não é um numero")
         numberConverter(frase)
 
-
 characters = numberConverter("quantos caracteres\n")
 
 
@@ -34,7 +33,7 @@ charactersTypes = {
     "num characters" : numChars,
 }
 # print(len(charactersTypes["especial characters"]))
-senha = []
+password = []
 
 # print(list(charactersTypes.keys()))
 for char in range(characters):
@@ -51,10 +50,10 @@ for char in range(characters):
     # print(keys)
     randomKey = random.randint(0, len(charactersTypes[keys[char]]) - 1)
     # print(randomKey)
-    senha.append(charactersTypes[keys[char]][randomKey])
-    # print(senha)
+    password.append(charactersTypes[keys[char]][randomKey])
+    # print(password)
 
-for i in senha:
+for i in password:
     print(i,end="")
 
 
