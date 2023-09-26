@@ -9,7 +9,7 @@ To use this you need to do the download of the arquive "main.py" and run it on a
 
 ---------------------------------------------------------------------------------------------------------------------------
 (Portuguese(BR) version)
-------------------------
+-------------------------
 Esse algoritmo foi feito para criar senhas fortes para o usuário.
 
 Eu usei python para este projeto porque esta linguagem é simples (e eu quero aprender mais esta linguagem) e python poderia me dar mais ferramentas para o projeto.
