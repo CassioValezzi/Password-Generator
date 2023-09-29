@@ -1,17 +1,17 @@
 # Password Generator 
 (English)
 ------------------
-This algorithm was made to create strongs passwords for the user.
+This algorithm was created to suggest strong passwords to the user.
 
-I used python for this project beacuse this language its simple (and I wanna learn more this language) and python could give me more tools for the project.
+I chose Python while developing this script, seeing as it quite easily provides the necessary tools for this system.
 
-To use this you need to do the download of the arquive "main.py" and run it on a terminal.
+To use this you need to download the file "main.py" and run it on a terminal.
 
 ---------------------------------------------------------------------------------------------------------------------------
 (Portuguese(BR))
 -------------------------
-Esse algoritmo foi feito para criar senhas fortes para o usuário.
+Esse algoritmo foi criado para sugerir senhas fortes ao usuário.
 
-Eu usei python para este projeto porque esta linguagem é simples (e eu quero aprender mais esta linguagem) e python poderia me dar mais ferramentas para o projeto.
+Eu escolhi Python durante o desenvolvimento deste script, visto que ele fornece facilmente as ferramentas necessárias para este sistema.
 
-Para usar isso você precisa fazer o download do arquivo "main.py" e executá-lo em um terminal.
+Para usar isso, você precisa baixar o arquivo "main.py" e executá-lo em um terminal.
