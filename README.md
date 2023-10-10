@@ -1,7 +1,7 @@
 # Password Generator 
 
-This algorithm was made to create strongs passwords for the user.
+This algorithm was created to suggest strong passwords to the user.
 
-I used python for this project beacuse this language its simple (and I wanna learn more this lenguage) and python could give more tools for the project.
+I chose Python while developing this script, seeing as it quite easily provides the necessary tools for this system.
 
-To use this you need to do the download of the arquive "main.py" and run it on a terminal
+To use this you need to download the file "main.py" and run it on a terminal.
